@@ -1,5 +1,7 @@
 # 🌾 주룩 (Julook)
-![KakaoTalk_Photo_2023-12-01-13-41-59](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-1010/assets/50910456/547561d9-ee9b-4829-91b6-0bd734c75942)
+
+![미리보기](https://github.com/1010-Julook-Application/Julook-iOS-App/assets/50910456/972e0fbe-dfe7-4936-a5d5-5dd4dbf5b92d)
+
 
 <br>
 
